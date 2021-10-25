@@ -4,6 +4,9 @@ Original Author: Br. Burton
 Designed to be completed by others
 This program implements the asteroids game.
 """
+
+"""Completed by Jayden Thomas on 7/7/2021"""
+
 import arcade
 import constants
 from ship import Ship
